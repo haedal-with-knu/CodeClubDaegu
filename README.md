@@ -1,7 +1,9 @@
 # 코드클럽 대구
 > 행사에 사용될 리소스들 정리해봅시다
 
+## 유튜브 영상
 [![](http://img.youtube.com/vi/B2Jc2I76K_Y/0.jpg)](http://www.youtube.com/watch?v=B2Jc2I76K_Y "")
+
 ## 현수막
 ![현수막](코드클럽현수막.jpg)
 
