@@ -2,6 +2,7 @@
 > 행사에 사용될 리소스들 정리해봅시다
 
 ## 공식 영상
+> 사진 누르면 유튜브로 링크~
 [![단체사진](img/단체사진1.JPG)](http://www.youtube.com/watch?v=B2Jc2I76K_Y "")
 ### 지구온난화
 [![지구온난화](img/지구온난화_아이디어.JPG)](https://youtu.be/Ca5zBb_Zod0)
