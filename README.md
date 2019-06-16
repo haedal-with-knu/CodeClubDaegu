@@ -1,21 +1,22 @@
 # 코드클럽 대구
 > 행사에 사용될 리소스들 정리해봅시다
 
-## 공식 영상
-> 사진 누르면 유튜브로 링크~
-[![단체사진](img/단체사진1.JPG)](http://www.youtube.com/watch?v=B2Jc2I76K_Y "")
-### 지구온난화
-[![지구온난화](img/지구온난화_아이디어.JPG)](https://youtu.be/Ca5zBb_Zod0)
-### 미세먼지
-[![미세먼지](img/미세먼지_아이디어.JPG)](https://youtu.be/yTM3-IIPAjk)
-### GAX
-[![GAX](img/GAX_아이디어.JPG)](https://youtu.be/m9h85IJqrvc)
-### 그것이 알고싶다
-[![그것이 알고싶다](img/그것이알고싶다_아이디어.JPG)](https://youtu.be/D26XVn8FgEE)
-### 해결사
-[![해결사](img/해결사_아이디어.JPG)](https://youtu.be/kJbGegxtXfQ)
-### 자연재해
-[![자연재해](img/자연재해_아이디어.JPG)](https://youtu.be/jY-AEr0IpSU)
+## [공식 영상](http://www.youtube.com/watch?v=B2Jc2I76K_Y)
+> 유튜브로 링크 + 사진 첨부
+
+![단체사진](img/단체사진1.JPG)
+### [지구온난화](https://youtu.be/Ca5zBb_Zod0)
+![지구온난화](img/지구온난화_아이디어.JPG)
+### [미세먼지](https://youtu.be/yTM3-IIPAjk)
+![미세먼지](img/미세먼지_아이디어.JPG)
+### [GAX](https://youtu.be/m9h85IJqrvc)
+![GAX](img/GAX_아이디어.JPG)
+### [그것이 알고싶다](https://youtu.be/D26XVn8FgEE)
+![그것이 알고싶다](img/그것이알고싶다_아이디어.JPG)
+### [해결사](https://youtu.be/kJbGegxtXfQ)
+![해결사](img/해결사_아이디어.JPG)
+### [자연재해](https://youtu.be/jY-AEr0IpSU)
+![자연재해](img/자연재해_아이디어.JPG)
 
 
 ## 현수막
